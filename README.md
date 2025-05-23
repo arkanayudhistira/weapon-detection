@@ -1,5 +1,4 @@
 # Implementing YOLO11 for Real-time Weapon Detection
-___
 
 Developed by Muhammad Arkana Yudhistira
 
