@@ -5,8 +5,7 @@ Developed by Muhammad Arkana Yudhistira
 
 ## Background
 
-As crime rates fluctuate and public safety becomes a growing concern, the demand for innovative solutions to enhance security and ensure peace of mind has never been more critical. This course is designed for the participants to learn how to implement an advanced machine learning technique, object detection, and use it to solve real-world problems. By exploring the capabilities of YOLOv8 (You Only Look Once), an object detection algorithm known for its exceptional speed and accuracy, students will embark on a journey to develop and deploy a system capable of recognizing weapons in diverse settings, ultimately contributing to safer community environments.
-
+As crime rates fluctuate and public safety becomes a growing concern, the demand for innovative solutions to enhance security and ensure peace of mind has never been more critical. This project is designed to learn how to implement an advanced machine learning technique, object detection, and use it to solve real-world problems. By exploring the capabilities of YOLO11 (You Only Look Once), an object detection algorithm known for its exceptional speed and accuracy, we will embark on a journey to develop and deploy a system capable of recognizing weapons in diverse settings, ultimately contributing to safer community environments.
 
 ## Demo
 
@@ -14,7 +13,7 @@ https://github.com/user-attachments/assets/0a5baed6-bbc1-473f-ad50-50ff331d7261
 
 ## Project Setup
 
-* Make an environment with python=3.10 using the following command 
+* Make an environment with python=3.12 using the following command 
 
 ``` bash
 conda create -n my_env python==3.12
